@@ -1,3 +1,11 @@
 terraform/
 terraform.tfstate
 terraform.tfstate.backup
+..gitignore.un~
+.main.tf.un~
+.outputs.tf.un~
+.terraform.lock.hcl
+.variables.tf.un~
+main.tf~
+outputs.tf~
+variables.tf~
