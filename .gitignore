@@ -1,4 +1,4 @@
-terraform/
+.terraform/
 terraform.tfstate
 terraform.tfstate.backup
 ..gitignore.un~
@@ -9,3 +9,5 @@ terraform.tfstate.backup
 main.tf~
 outputs.tf~
 variables.tf~
+.main.tf.swp
+.gitignore~
